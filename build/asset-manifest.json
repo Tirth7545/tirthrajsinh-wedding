@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tirthrajsinh-wedding/static/css/main.189aae31.css",
+    "main.js": "/tirthrajsinh-wedding/static/js/main.088e19f6.js",
+    "static/js/488.c37df614.chunk.js": "/tirthrajsinh-wedding/static/js/488.c37df614.chunk.js",
+    "static/media/ganpati.png": "/tirthrajsinh-wedding/static/media/ganpati.55a7325fc39a98022dbe.png",
+    "index.html": "/tirthrajsinh-wedding/index.html",
+    "main.189aae31.css.map": "/tirthrajsinh-wedding/static/css/main.189aae31.css.map",
+    "main.088e19f6.js.map": "/tirthrajsinh-wedding/static/js/main.088e19f6.js.map",
+    "488.c37df614.chunk.js.map": "/tirthrajsinh-wedding/static/js/488.c37df614.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.189aae31.css",
+    "static/js/main.088e19f6.js"
+  ]
+}
