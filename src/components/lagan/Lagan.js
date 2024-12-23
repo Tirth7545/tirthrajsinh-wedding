@@ -34,8 +34,8 @@ const Lagna = () => {
     <p>{timeLeft}</p>
 
     <div className="buttons">
-      <button onClick={() => window.open('https://www.google.com/maps?q=your-home-location', '_blank')}>Home Location</button>
-      <button onClick={() => window.open('https://www.google.com/maps?q=your-venue-location', '_blank')}>Venue Location</button>
+      <button onClick={() => window.open('https://maps.app.goo.gl/piwf9ZyW73FJ778R6', '_blank')}>Home Location</button>
+      <button onClick={() => window.open('https://maps.app.goo.gl/8gZBohaBnff5u8E78', '_blank')}>Venue Location</button>
     </div>
   </div>
     );
