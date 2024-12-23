@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #f8f8f8;
+  color: #333;
+}
+
+h1 {
+  color: #e91e63; /* Wedding color */
+  font-size: 3rem;
+}
+
+.ganpati-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 2px solid #ff9900; /* Border color */
+  margin: 20px 0;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #4caf50; /* Countdown section color */
+}
+
+p {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #f44336; /* Countdown timer color */
+}
+
+.buttons {
+  margin-top: 20px;
+}
+
+button {
+  background-color: #ff9800;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 5px;
+  margin: 10px;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #f57c00;
+}
