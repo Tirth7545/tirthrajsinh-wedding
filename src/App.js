@@ -5,7 +5,7 @@ import Lagna from './components/lagan/Lagan';
 function App() {
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/tirthrajsinh-wedding'>
       <Routes>
         <Route index element={<Navigate to="/lagan" replace />} />
         <Route path="lagan" element={<Lagna />} />

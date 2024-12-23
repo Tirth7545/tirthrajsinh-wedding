@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.189aae31.css",
-    "main.js": "/static/js/main.15abbe7c.js",
-    "static/js/488.c37df614.chunk.js": "/static/js/488.c37df614.chunk.js",
-    "static/media/ganpati.png": "/static/media/ganpati.55a7325fc39a98022dbe.png",
-    "index.html": "/index.html",
-    "main.189aae31.css.map": "/static/css/main.189aae31.css.map",
-    "main.15abbe7c.js.map": "/static/js/main.15abbe7c.js.map",
-    "488.c37df614.chunk.js.map": "/static/js/488.c37df614.chunk.js.map"
+    "main.css": "/tirthrajsinh-lagan/static/css/main.189aae31.css",
+    "main.js": "/tirthrajsinh-lagan/static/js/main.f4f5a703.js",
+    "static/js/488.c37df614.chunk.js": "/tirthrajsinh-lagan/static/js/488.c37df614.chunk.js",
+    "static/media/ganpati.png": "/tirthrajsinh-lagan/static/media/ganpati.55a7325fc39a98022dbe.png",
+    "index.html": "/tirthrajsinh-lagan/index.html",
+    "main.189aae31.css.map": "/tirthrajsinh-lagan/static/css/main.189aae31.css.map",
+    "main.f4f5a703.js.map": "/tirthrajsinh-lagan/static/js/main.f4f5a703.js.map",
+    "488.c37df614.chunk.js.map": "/tirthrajsinh-lagan/static/js/488.c37df614.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.189aae31.css",
-    "static/js/main.15abbe7c.js"
+    "static/js/main.f4f5a703.js"
   ]
 }
